@@ -1,0 +1,61 @@
+[{
+    "id": 1,
+    "image": "./assets/images/agera.jpg",
+    "clicked": false
+},
+{
+    "id": 2,
+    "image": "./assets/images/c63.jpg",
+    "clicked": false
+},
+{
+    "id": 3,
+    "image":  "./assets/images/centodieci.jpg",
+    "clicked": false
+},
+{
+    "id": 4,
+    "image": "./assets/images/dbs.jpg",
+    "clicked": false
+},
+{
+    "id": 5,
+    "image": "./assets/images/ferarri.jpg",
+    "clicked": false
+},
+{
+    "id": 6,
+    "image": "./assets/images/huayra.jpg",
+    "clicked": false
+},
+{
+    "id": 7,
+    "image": "./assets/images/mercy.jpg",
+    "clicked": false
+},
+{
+    "id": 8,
+    "image": "./assets/images/p1.jpg",
+    "clicked": false
+},
+{
+    "id": 9,
+    "image": "./assets/images/roadster.jpg",
+    "clicked": false
+},
+{
+    "id": 10,
+    "image": "./assets/images/huracan.jpg",
+    "clicked": false
+},
+{
+    "id": 11,
+    "image": "./assets/images/spyder.jpg",
+    "clicked": false
+},
+{
+    "id": 12,
+    "image": "./assets/images/m4.jpg",
+    "clicked": false
+}
+]
